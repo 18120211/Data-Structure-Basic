@@ -1,7 +1,0 @@
-Chào cô Uyên
-Mong cô thông cảm vì sự bất tiện này vì em không kịp đưa hết các chức năng lên menu nhưng phần code của em đã hoàn chỉnh được đa số chức năng,
-cô có thể đọc kĩ hơn trong file cVector.cpp và cVector.h.
-trong file main
-Cảm ơn cô
-Kí tên
-MINH
